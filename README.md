@@ -11,6 +11,7 @@ MoBlo is a **Mo**delization for **Blo**ckChain.
 This document presents :
 
 * The [**Context**](/context.md) which will be used in presented use cases.
+* The [**Population Map**](/pm.md) Diagram.
 
 
 
