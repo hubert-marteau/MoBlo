@@ -8,8 +8,6 @@ As a technology, BlockChain needs modelization tools to lead projects conception
 
 MoBlo is a **Mo**delization for **Blo**ckChain.
 
-
-
 This document presents :
 
 * The [**Context**](/context.md) which will be used in presented use cases.
