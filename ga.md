@@ -57,13 +57,21 @@ _**Figure 3-2 - GA - Forum**_
 
 ## 3.4.    Particular case: Batch & SmartContract
 
-In the particular of multiSig addresses the Global Architecture allows to define explicitly the related pub keys.
+A _Batch_ is considered like an external service. It is located on a device and it uses an address present in a wallet. The wallet is owned by an actor of the BlockChain who can be distinctly identified, the address can be a multi-Signature address.
 
-_**Figure 3-3 - GA - MultiSig**_
+![](/Img/GA-Batch.png)
 
-In the figure Alice uses one address with one multiSig address \(M1\) and her other address with the other multiSig address \(M2\).
+_**Figure 3-3 - GA - Batch**_
 
-Labels are added to the multiSig addresses to distinguish them later just in using this label.
+
+
+A SmartContract is a script in the middle of the BlockChain. Publish a SmartContract in the BlockChain returns the address of the SmartContract in the BlockChain. A SmartContract can be represented like a simple address with a label to indicate it is a SmartContract.
+
+![](/Img/GA-SC.png)
+
+_**Figure 3-4 - GA - SmartContract**_
+
+_Notice that Global Architecture is done to only represent the architecture. The content of the Batch or the SmartContract has not to be defined by this diagram._
 
 ## 3.4.    Particular case: Multi-Signature
 
@@ -71,11 +79,15 @@ In the particular of multiSig addresses the Global Architecture allows to define
 
 ![](/Img/GA-MultiSig.png)
 
-_**Figure 3-3 - GA - MultiSig**_
+_**Figure 3-5 - GA - MultiSig**_
 
 In the figure Alice uses one address with one multiSig address \(M1\) and her other address with the other multiSig address \(M2\).
 
 Labels are added to the multiSig addresses to distinguish them later just in using this label.
+
+## 3.6.    Particular case: Channels
+
+A few BlockChains define Channels like closed parts of a BlockChain. Man can give special rights to users in a channel and other rights in another channel. Never a Channel can be inclued in another one. In Global Architecture, it can be then represented like different BlockChain, each BlockChain with its own rights.
 
 [**Go to Unit Definition**](/ud.md)
 
