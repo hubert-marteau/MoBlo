@@ -12,18 +12,15 @@ Rights are defined here for the following nodes of the network.
 
 |  |  |
 | :---: | :--- |
-|  | **Simple Node** : Node not able to connect to the BC |
-|  | **Origin Node** : Creator of the BC \(Naturally has admin rights\) |
-|  | **Admin** : Can give and revoke to anyone the rights : issue, mine, activate, admin, connect, send receive |
-|  | **Activator** : Can give and revoke to anyone the rights : connect, send, receive |
-|  | **Miner** : Node processing blocks of the BC |
-|  | **Connect** : Node able to connect to the BC |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| ![](/Img/SimpleNode.png) | **Simple Node** : Node not able to connect to the BC |
+| ![](/Img/OriginNode.png) | **Origin Node** : Creator of the BC _\(Naturally has admin rights\)_ |
+| ![](/Img/Admin.png) | **Admin** : Can give and revoke to anyone the rights : issue, mine, activate, admin, connect, send receive |
+| ![](/Img/Activator.png) | **Activator** : Can give and revoke to anyone the rights : connect, send, receive |
+| ![](/Img/Miner.png) | **Miner** : Node processing blocks of the BC |
+| ![](/Img/Connect.png) | **Connect** : Node able to connect to the BC |
+| ![](/Img/Send.png) | **Send **: Node able to send new transaction to the BC _\(Necessarily able to connect\)_ |
+| ![](/Img/Receive.png) | **Receive **: Node able to receive transaction in the BC _\(Necessarily able to connect\)_ |
+| ![](/Img/Issue.png) | **Issue **: Node able to create new asset in the BC _\(Necessarily able to connect and receive\)_ |
 
 ```
 
