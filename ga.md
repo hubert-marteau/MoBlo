@@ -12,7 +12,7 @@ Contact Information: Hubert MARTEAU @ Worldline
 License: CC BY-NC-ND 4.0
 ---
 
-_The licence used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+_The license used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 [**Return to Introduction**](/README.md)
 
@@ -62,8 +62,6 @@ A _Batch_ is considered like an external service. It is located on a device and 
 ![](/Img/GA-Batch.png)
 
 _**Figure 3-3 - GA - Batch**_
-
-
 
 A SmartContract is a script in the middle of the BlockChain. Publish a SmartContract in the BlockChain returns the address of the SmartContract in the BlockChain. A SmartContract can be represented like a simple address with a label to indicate it is a SmartContract.
 
