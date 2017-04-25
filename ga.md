@@ -59,7 +59,7 @@ _**Figure 3-2 - GA - Forum**_
 
 In the particular of multiSig addresses the Global Architecture allows to define explicitly the related pub keys.
 
-![](/Img/GA-MultiSig.png)
+
 
 _**Figure 3-3 - GA - MultiSig**_
 
