@@ -144,18 +144,12 @@ _Notice: An address with only “receive” right can be considered like a publi
   * It can **Receive** transactions in the BlockChain
   * It can **Issue** in the BlockChain
 
-
-
 * The _Subscribed Readers_:
   * They can **Send** transactions in the BlockChain
   * They can **Receive** transactions in the BlockChain
 
-
-
 * The \(Simple\) _Readers_:
   * They can **Connect** and then read \(and only read, the posts.
-
-
 
 ## 2.4.    Particular case: Multi-Signature
 
@@ -163,7 +157,11 @@ In few cases, it can appear necessary to use multisign addresses. A multisign ad
 
 In Population Map, this is represented with a new box and the signature format.
 
-Figure 4- PM – MultiSign Addresses
+![](/Img/PM-MultiSig.png)
+
+_**Figure 4- PM – MultiSign Addresses**_
+
+
 
 In this figure, there are two addresses shared by Alice and Bob:
 
@@ -171,9 +169,11 @@ In this figure, there are two addresses shared by Alice and Bob:
 
 •    the second to send transactions need two signatures \(Alice’s signature and Bob’s signature\)
 
-Notice that few screens have to be used when there are different crossed multisign addresses: when one address is 3 x 6 and, in the same use case, another is 4 x 5, and another is … The goal of the Population is to be clear, then different screens can be used to represent the population.
+_Notice that few screens have to be used when there are different crossed multisign addresses: when one address is 3 x 6 and, in the same use case, another is 4 x 5, and another is … The goal of the Population is to be clear, then different screens can be used to represent the population._
 
-2.5.    Particular case: Import of Private Key
+
+
+## 2.5.    Particular case: Import of Private Key
 
 In few cases, it can appear necessary to import the private key of a wallet from to another one. Then the second one receives all the rights of the first one and can act as the first one. It has to be done with a lot of precautions.
 
