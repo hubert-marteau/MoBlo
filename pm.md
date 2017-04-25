@@ -1,4 +1,4 @@
-_The licence used for MoBlo articles is _[_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+_The licence used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # 2.    Population Map \(PM\)
 
@@ -18,9 +18,9 @@ Rights are defined here for the following nodes of the network.
 | ![](/Img/Activator.png) | **Activator** : Can give and revoke to anyone the rights : connect, send, receive |
 | ![](/Img/Miner.png) | **Miner** : Node processing blocks of the BC |
 | ![](/Img/Connect.png) | **Connect** : Node able to connect to the BC |
-| ![](/Img/Send.png) | **Send **: Node able to send new transaction to the BC _\(Necessarily able to connect\)_ |
-| ![](/Img/Receive.png) | **Receive **: Node able to receive transaction in the BC _\(Necessarily able to connect\)_ |
-| ![](/Img/Issue.png) | **Issue **: Node able to create new asset in the BC _\(Necessarily able to connect and receive\)_ |
+| ![](/Img/Send.png) | **Send** : Node able to send new transaction to the BC _\(Necessarily able to connect\)_ |
+| ![](/Img/Receive.png) | **Receive** : Node able to receive transaction in the BC _\(Necessarily able to connect\)_ |
+| ![](/Img/Issue.png) | **Issue** : Node able to create new asset in the BC _\(Necessarily able to connect and receive\)_ |
 
 ## 2.2.    Library use case PM
 
@@ -53,8 +53,6 @@ Let’s take again each actor with their rights:
   * It can **Receive** transactions in the BlockChain
   * It can **Issue** in the BlockChain
 
-
-
 * The others _Libraries_:
 
   * They have **Activation** rights on the BlockChain
@@ -63,15 +61,11 @@ Let’s take again each actor with their rights:
   * They can **Send** transactions in the BlockChain
   * They can **Receive** transactions in the BlockChain
 
-
-
 * The _Readers_:
 
   * They can **Connect** to the BlockChain
   * They can **Send** transactions in the BlockChain
   * They can **Receive** transactions in the BlockChain
-
-
 
 * Other _Actors_ \(not linked to library system\):
 
@@ -81,7 +75,7 @@ But in this list, a few rights are redundant.
 
 If you are able to write in a BlockChain, then you inevitably have the right to connect. Similary, the creator of a BlockChain has Admin and Activation Rights.
 
-Notice: it’s a good way to keep highlighted status rights, process right and business rights.
+_Notice: it’s a good way to keep highlighted status rights, process right and business rights._
 
 Then the list can be reduced in:
 
