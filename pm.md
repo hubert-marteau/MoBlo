@@ -38,8 +38,6 @@ All the rights can be represented by the next figure:
 
 ![](/Img/PM-Library-Ext.png)_**Figure 1 - Population Map - Library - extented**_
 
-
-
 Let’s take again each actor with their rights:
 
 * The _Central Library_:
@@ -107,8 +105,6 @@ Thus, the rights can be represented by a compact version of the figure:
 
 ![](/Img/PM-Library-Compact.png)_**Figure 2 - Population Map - Library - Compact**_
 
-
-
 ## 2.3.    Forum use case PM
 
 In the Forum use case, there are 4 kinds of people:
@@ -125,51 +121,43 @@ All the rights can be represented by the next figure:
 
 ![](/Img/PM-Forum.png)_**Figure 3 - PM - Forum**_
 
-
-
 The figure represents the compact version of the Population Map \(PM\).
 
 The rights are defined following rules to show another aspect of rights.
 
 The list of rights is the following one:
 
-* The Creator of the forum
+* The _Creator_ of the forum:
+  * It is the BlockChain **Creator**
+  * It is a **Miner**
+  * It can **Send** transactions in the BlockChain
+  * It can **Receive** transactions in the BlockChain
+  * It can **Issue** in the BlockChain
+  * It can **Receive** on another address.
 
-o    It is the BlockChain Creator
+_Notice: The forum has a wall, an editorial line. A specific address is created just to receive the posts. It is possible to imagine that editors could have their own address and that the forum would have then few editorial lines. In fact, technically, if you can receive transactions then you can create your own editorial line. Note that, above all, the Forum Creator is represented with two statuses: one is full of rights, it is its user status; the other one can only receive rights, it is the editorial line._
 
-o    It is a Miner
+_Notice: An address with only “receive” right can be considered like a publication wall \(a discussion later compare transactions and streams for this use case\)._
 
-o    It can Write transactions in the BlockChain
+* The _Editors_ \(having rights to create new topics\):
+  * It can **Send** transactions in the BlockChain
+  * It can **Receive** transactions in the BlockChain
+  * It can **Issue** in the BlockChain
 
-o    It can Receive transactions in the BlockChain
 
-o    It can Issue in the BlockChain
 
-o    It can Receive on another address.
+* The _Subscribed Readers_:
+  * They can **Send** transactions in the BlockChain
+  * They can **Receive** transactions in the BlockChain
 
-Notice: The forum has a wall, an editorial line. A specific address is created just to receive the posts. It is possible to imagine that editors could have their own address and that the forum would have then few editorial lines. In fact, technically, if you can receive transactions then you can create your own editorial line. Note that, above all, the Forum Creator is represented with two statuses: one is full of rights, it is its user status; the other one can only receive rights, it is the editorial line.
 
-Notice: An address with only “receive” right can be considered like a publication wall \(a discussion later compare transactions and streams for this use case\).
 
-* The Editors \(having rights to create new topics\)
+* The \(Simple\) _Readers_:
+  * They can **Connect** and then read \(and only read, the posts.
 
-o    It can Write transactions in the BlockChain
 
-o    It can Receive transactions in the BlockChain
 
-o    It can Issue in the BlockChain
-
-* The Subscribed Readers 
-
-o    They can Write transactions in the BlockChain
-
-o    They can Receive transactions in the BlockChain
-
-* The \(Simple\) Readers
-
-o    They can Connect and then read \(and only read, the posts.
-
-2.4.    Particular case: Multi-Signature
+## 2.4.    Particular case: Multi-Signature
 
 In few cases, it can appear necessary to use multisign addresses. A multisign address is an address which can be signed by \(p\) different pub keys and which has to be signed by \(s\) signatures. Then, a multisign address is noticed with \(s x p\) to inform that \(s\) signatures are needed in the \(p\) possible pub keys.
 
