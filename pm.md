@@ -26,7 +26,7 @@ Rights are defined here for the following nodes of the network.
 
 ```
 
-2.2.    Library use case PM
+## 2.2.    Library use case PM
 
 In the Library use case, there are 4 kinds of actors:
 
