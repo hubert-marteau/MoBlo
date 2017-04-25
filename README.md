@@ -18,6 +18,8 @@ This document presents :
 * The [**Population Map**](/pm.md) Diagram;
 * The [**Global Architecture**](/ga.md) Diagram;
 * The [**Unit Definition**](/ud.md) Diagram;
+* The [**Business Transactions**](/bt.md) Diagram;
+* The Conclusion.
 
 
 
