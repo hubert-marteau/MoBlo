@@ -40,7 +40,7 @@ In the Library use case, there are 4 kinds of actors:
 
 All the rights can be represented by the next figure:
 
-![](/Img/PM-Library-Ext.png)_**Figure 1 - Population Map - Library - extented**_
+![](/Img/PM-Library-Ext.png)_**Figure 2-1 - Population Map - Library - extented**_
 
 Let’s take again each actor with their rights:
 
@@ -107,7 +107,7 @@ Then the list can be reduced in:
 
 Thus, the rights can be represented by a compact version of the figure:
 
-![](/Img/PM-Library-Compact.png)_**Figure 2 - Population Map - Library - Compact**_
+![](/Img/PM-Library-Compact.png)_**Figure 2-2 - Population Map - Library - Compact**_
 
 ## 2.3.    Forum use case PM
 
@@ -123,7 +123,7 @@ In the Forum use case, there are 4 kinds of people:
 
 All the rights can be represented by the next figure:
 
-![](/Img/PM-Forum.png)_**Figure 3 - PM - Forum**_
+![](/Img/PM-Forum.png)_**Figure 2-3 - PM - Forum**_
 
 The figure represents the compact version of the Population Map \(PM\).
 
@@ -166,7 +166,7 @@ In Population Map, this is represented with a new box and the signature format.
 
 ![](/Img/PM-MultiSig.png)
 
-_**Figure 4- PM – MultiSign Addresses**_
+_**Figure 2-4- PM – MultiSign Addresses**_
 
 In this figure, there are two addresses shared by Alice and Bob:
 

@@ -29,7 +29,7 @@ In the Population Map, we’ve seen that only the _Central Library_ was allowed 
 
 ![](/Img/UD-Library.png)
 
-_**Figure 9 - UD - Library**_
+_**Figure 4-1 - UD - Library**_
 
 •    The second type of _Assets_ is “_Booking_”. The units of this _Asset_ are used to represent the booking of a book by a reader in a specific Library. At first, the total number of booking can’t be defined and then the _Asset_ stays opened.
 
@@ -43,7 +43,7 @@ The Forum is used to publish new subjects and comments related to the subjects.
 
 ![](/Img/UD-Forum.png)
 
-_**Figure 10 - UD - Forum**_
+_**Figure 4-2 - UD - Forum**_
 
 A new subject can be created by the _Forum Creator_ or any member with the _Editor_ status. The units of the same _Asset_ are used to send a comment on the subject.
 

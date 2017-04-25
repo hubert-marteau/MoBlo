@@ -16,13 +16,13 @@ Each transaction has an origin and a destination. Each transaction carries more 
 
 ![](/Img/BT-SimpleTransaction.png)
 
-_**Figure 11 - BT - Simple Transaction**_
+_**Figure 5-1 - BT - Simple Transaction**_
 
 In the represented transaction, Alice sends to Bob units of the _Asset Aj_ with a complement of data _dk_ using the transaction _ti_.
 
 ![](/Img/BT-MultiSig.png)
 
-_**Figure 12 - BT - MultiSig Transaction**_
+_**Figure 5-2 - BT - MultiSig Transaction**_
 
 In the case of MultiSign Addresses, origin can be easily specified. Here Alice and Bob send to Carol, 10 units of _A5_ and 6 units of _A12_ by the transaction _tz_.
 
@@ -34,19 +34,19 @@ The Library use case presents a lot of possible transactions.
 
 ![](/Img/BT-Library-SignUp.png)
 
-_**Figure 13 - BT - Library - Sign Up**_
+_**Figure 5-3 - BT - Library - Sign Up**_
 
 _Readers_ use a Web Gate to access to the Information System. Then, when a new _Reader_ wants to sign up, he uses the Web Gate. Here the arrow is dotted to indicate that it is not a BlockChain transaction. The modelization of such a transaction can be useful to completely describe the use case and remind the importance of the Web Gate.
 
 ![](/Img/BT-Library-Distrib.png)
 
-_**Figure 14 - BT - Library - Distribution**_
+_**Figure 5-4 - BT - Library - Distribution**_
 
 The _Central Library_ creates the _Assets_ and the units of _Asset_. When, in the real life, the book is sent to a _Library \(L\)_, the _Central Library \(CL\)_ has to send a unit of the _Asset_ to the _Library_.
 
 ![](/Img/BT-Library-Central.png)
 
-_**Figure 15 - BT - Library - Centralisation**_
+_**Figure 5-5 - BT - Library - Centralisation**_
 
 Books can be returned in any library. Then a library can stored many copies of the same book. The books have to be sent to the _Central Library_.
 
@@ -56,13 +56,13 @@ Anyway, the BlockChain indicates where the available books are located.
 
 ![](/Img/BT-Library-Loaning.png)
 
-_**Figure 16 - BT - Library - Loaning**_
+_**Figure 5-6 - BT - Library - Loaning**_
 
 A _Reader \(R\)_ can borrow a book. The book is then taken from a Library \(_Central Library_ or other _Library_\) and sent to the _Reader_. The transaction can carry the End Date of the loan.
 
 ![](/Img/BT-Library-Return.png)
 
-_**Figure 17 - BT - Library - Return**_
+_**Figure 5-7 - BT - Library - Return**_
 
 The simple cycle of book can be ended with the case of the return. A _Reader_ returns a book, and the unit is sent back to the _Library_.
 
@@ -70,7 +70,7 @@ At this point, the system is a ledger which allows to know where a book is locat
 
 ![](/Img/BT-Library-Booking.png)
 
-_**Figure 18 - BT - Library - Booking**_
+_**Figure 5-8 - BT - Library - Booking**_
 
 Here is a sequential use case, where transactions have a related number to indicate the order which has to be followed.
 
@@ -86,7 +86,7 @@ Notice that the first step of _Booking_ is done after using Web Gate. A business
 
 ![](/Img/BT-Library-Delay.png)
 
-_**Figure 19 - BT - Library - Delay**_
+_**Figure 5-9 - BT - Library - Delay**_
 
 The last part of the use case is the _Delay_ in book return. Transactions are created by the batches which are using the _Central Library_ address based on loaning information. When a book is loaned, the end date is specified, the system easily allows to find Books loaned by _Readers_ out of End Date.
 
@@ -100,13 +100,13 @@ Forum is a simplest use case limited to two cases: open a new subject and commen
 
 ![](/Img/BT-Forum-NewSubj.png)
 
-_**Figure 20 - BT - Forum - New Subject**_
+_**Figure 5-10 - BT - Forum - New Subject**_
 
 The creation of a new subject is defined by the creation of a new _Asset_. It can be done by the _Forum Creator \(FC\)_ or an _Editor \(E\)_. When a new subject is opened, the _Publisher_ creates a new _Asset \(Sni\)_ and sends one unit of the _Asset_ to the _Publication Wall_. The transaction carries on the publication which can be read anyone able to connect to the BlockChain.
 
 ![](/Img/BT-Forum-Comment.png)
 
-_**Figure 21 - BT - Forum - Comment**_
+_**Figure 5-11 - BT - Forum - Comment**_
 
 The _Creator_ of an _Asset_ is the owner of this _Asset_. He is then the only one able to create new units of the _Asset_.
 

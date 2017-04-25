@@ -29,7 +29,7 @@ In complement of the Population Map, batches are necessary to create and send de
 
 ![](/Img/GA-Library.png)
 
-_**Figure 6 – GA - Library**_
+_**Figure 3-1 – GA - Library**_
 
 The figure represents the 3 nodes with rights inside the BlockChain. The interfaces of _Central Library \(CL\) and Libraries \(L\)_ are directly connected to the BlockChain. _Readers_ use a Web Gate to communicate with the BlockChain. Batches are using the _Central Library_’s address to access to the BlockChain.
 
@@ -39,7 +39,19 @@ The goal of the Forum is to discard all the web tools. Except to send and receiv
 
 ![](/Img/GA-Forum.png)
 
-_**Figure 7 - GA - Forum**_
+_**Figure 3-2 - GA - Forum**_
+
+## 3.4.    Particular case: Batch & SmartContract
+
+In the particular of multiSig addresses the Global Architecture allows to define explicitly the related pub keys.
+
+![](/Img/GA-MultiSig.png)
+
+_**Figure 3-3 - GA - MultiSig**_
+
+In the figure Alice uses one address with one multiSig address \(M1\) and her other address with the other multiSig address \(M2\).
+
+Labels are added to the multiSig addresses to distinguish them later just in using this label.
 
 ## 3.4.    Particular case: Multi-Signature
 
@@ -47,7 +59,7 @@ In the particular of multiSig addresses the Global Architecture allows to define
 
 ![](/Img/GA-MultiSig.png)
 
-_**Figure 8- GA - MultiSig**_
+_**Figure 3-3 - GA - MultiSig**_
 
 In the figure Alice uses one address with one multiSig address \(M1\) and her other address with the other multiSig address \(M2\).
 
