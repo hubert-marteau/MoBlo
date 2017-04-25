@@ -2,7 +2,7 @@ _The licence used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecom
 
 # MoBlo, Modelization for BlockChain
 
-by Hubert MARTEAU
+by [Hubert MARTEAU](https://github.com/SimplyUb)
 
 _special thanks to Jessica De La Cruz and Leen Van Dalen_
 
