@@ -34,42 +34,44 @@ In the Library use case, there are 4 kinds of actors:
 
 * Other _Actors _\(not linked to library system\)
 
-
-
 All the rights can be represented by the next figure:
 
 ![](/Img/PM-Library-Ext.png)
 
 _**Figure 1 - Population Map - Library - extented**_
 
-
-
 Let’s take again each actor with their rights:
 
-* The Central Library :
-  * It is the BlockChain Creator
-  * It has Admin rights on the BlockChain
-  * It has Activation rights on the BlockChain
-  * It is a Miner
-  * It can Connect to the BlockChain
-  * It can Write transactions in the BlockChain
-  * It can Receive transactions in the BlockChain
-  * It can Issue in the BlockChain
+* The _Central Library_:
 
-* The others Libraries
-  * They have Activation rights on the BlockChain
-  * They are a Miner
-  * They can Connect to the BlockChain
-  * They can Write transactions in the BlockChain
-  * They can Receive transactions in the BlockChain
+  * It is the BlockChain **Creator**
+  * It has **Admin** rights on the BlockChain
+  * It has **Activation** rights on the BlockChain
+  * It is a **Miner**
+  * It can **Connect** to the BlockChain
+  * It can **Send** transactions in the BlockChain
+  * It can **Receive** transactions in the BlockChain
+  * It can **Issue** in the BlockChain
 
-* The Readers
-  * They can Connect to the BlockChain
-  * They can Write transactions in the BlockChain
-  * They can Receive transactions in the BlockChain
+* The others _Libraries_:
 
-* Other Actors \(not linked to library system\)
+  * They have **Activation** rights on the BlockChain
+  * They are a **Miner**
+  * They can **Connect** to the BlockChain
+  * They can **Send** transactions in the BlockChain
+  * They can **Receive** transactions in the BlockChain
+
+* The _Readers_:
+
+  * They can **Connect** to the BlockChain
+  * They can **Send** transactions in the BlockChain
+  * They can **Receive** transactions in the BlockChain
+
+* Other _Actors_ \(not linked to library system\):
+
   * They cannot connect!!! Then they cannot read information.
+
+
 
 But in this list, a few rights are redundant.
 
