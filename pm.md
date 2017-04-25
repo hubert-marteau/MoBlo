@@ -1,5 +1,7 @@
 _The licence used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+[**Return to Context**](/context.md)
+
 # 2.    Population Map \(PM\)
 
 This is a first step to define the perimeter of a BlockChain project: what are the rights of actors for the project.
@@ -184,5 +186,5 @@ In this figure, Bob can create an Issue in the BlockChain and Alice cannot do it
 
 Technically, it means that Alice imported the private key of one of Bob’s addresses.
 
-Go to Global Architecture
+[**Go to Global Architecture**](/ga.md)
 
