@@ -14,7 +14,7 @@ Here are listed possible rights that can be found in a BlockChain project.
 
 Rights are defined here for the following nodes of the network.
 
-|  |  |
+| Design | Description |
 | :---: | :--- |
 | ![](/Img/SimpleNode.png) | **Simple Node** : Node not able to connect to the BC |
 | ![](/Img/OriginNode.png) | **Origin Node** : Creator of the BC _\(Naturally has admin rights\)_ |

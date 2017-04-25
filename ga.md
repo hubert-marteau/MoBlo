@@ -12,7 +12,7 @@ When population is defined, a global architecture needs to be defined. This arch
 
 See below the elements to define the global architecture.
 
-|  |  |
+| Design | Description |
 | :---: | :--- |
 | ![](/Img/GA-BC.png) | **BlockChain** : Representation of the BlockChain grouping together all the nodes. |
 | ![](/Img/GA-ExtServ.png) | **External Service** : Representation of an external service that needs to access to information. |
@@ -52,8 +52,6 @@ _**Figure 8- GA - MultiSig**_
 In the figure Alice uses one address with one multiSig address \(M1\) and her other address with the other multiSig address \(M2\).
 
 Labels are added to the multiSig addresses to distinguish them later just in using this label.
-
-
 
 [**Go to Unit Definition**](/ud.md)
 
