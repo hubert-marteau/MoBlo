@@ -59,8 +59,6 @@ _**Figure 3-2 - GA - Forum**_
 
 In the particular of multiSig addresses the Global Architecture allows to define explicitly the related pub keys.
 
-
-
 _**Figure 3-3 - GA - MultiSig**_
 
 In the figure Alice uses one address with one multiSig address \(M1\) and her other address with the other multiSig address \(M2\).
@@ -71,7 +69,7 @@ Labels are added to the multiSig addresses to distinguish them later just in usi
 
 In the particular of multiSig addresses the Global Architecture allows to define explicitly the related pub keys.
 
-
+![](/Img/GA-MultiSig.png)
 
 _**Figure 3-3 - GA - MultiSig**_
 
