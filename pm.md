@@ -22,8 +22,6 @@ Rights are defined here for the following nodes of the network.
 | ![](/Img/Receive.png) | **Receive **: Node able to receive transaction in the BC _\(Necessarily able to connect\)_ |
 | ![](/Img/Issue.png) | **Issue **: Node able to create new asset in the BC _\(Necessarily able to connect and receive\)_ |
 
-
-
 ## 2.2.    Library use case PM
 
 In the Library use case, there are 4 kinds of actors:
@@ -49,46 +47,29 @@ _**Figure 1 - Population Map - Library - extented**_
 Let’s take again each actor with their rights:
 
 * The Central Library :
-
-o    It is the BlockChain Creator
-
-o    It has Admin rights on the BlockChain
-
-o    It has Activation rights on the BlockChain
-
-o    It is a Miner
-
-o    It can Connect to the BlockChain
-
-o    It can Write transactions in the BlockChain
-
-o    It can Receive transactions in the BlockChain
-
-o    It can Issue in the BlockChain
+  * It is the BlockChain Creator
+  * It has Admin rights on the BlockChain
+  * It has Activation rights on the BlockChain
+  * It is a Miner
+  * It can Connect to the BlockChain
+  * It can Write transactions in the BlockChain
+  * It can Receive transactions in the BlockChain
+  * It can Issue in the BlockChain
 
 * The others Libraries
-
-o    They have Activation rights on the BlockChain
-
-o    They are a Miner
-
-o    They can Connect to the BlockChain
-
-o    They can Write transactions in the BlockChain
-
-o    They can Receive transactions in the BlockChain
+  * They have Activation rights on the BlockChain
+  * They are a Miner
+  * They can Connect to the BlockChain
+  * They can Write transactions in the BlockChain
+  * They can Receive transactions in the BlockChain
 
 * The Readers
-
-o    They can Connect to the BlockChain
-
-o    They can Write transactions in the BlockChain
-
-o    They can Receive transactions in the BlockChain
+  * They can Connect to the BlockChain
+  * They can Write transactions in the BlockChain
+  * They can Receive transactions in the BlockChain
 
 * Other Actors \(not linked to library system\)
-
-o    They cannot connect!!! Then they cannot read information.
+  * They cannot connect!!! Then they cannot read information.
 
 But in this list, a few rights are redundant.
 
