@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [Context](context.md)
 * [Population Map \(PM\)](pm.md)
-* [GA](ga.md)
-* [UD](ud.md)
-* [BT](bt.md)
+* [Global Architecture \(GA\)](ga.md)
+* [Unit Definition \(UD\)](ud.md)
+* [Business Transactions \(BT\)](bt.md)
 * [Conclusion](conclusion.md)
 

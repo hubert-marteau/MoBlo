@@ -1,3 +1,16 @@
+---
+Title: MoBlo
+Description: Modelization for BloCkChain Projects
+article: Conclusion
+Keywords:
+  - BlockChain
+  - Modelization
+  - MoBlo
+  - Conclusion
+Contact Information: Hubert MARTEAU @ Worldline
+License: CC BY-NC-ND 4.0
+---
+
 _The licence used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 [**Return to Introduction**](/README.md)
