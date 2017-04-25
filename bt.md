@@ -118,3 +118,5 @@ If the _Creator_ of the _Subject_ decides to allow the comment, then he sends to
 
 At the end, _\(P\)_ can send his comment to the _Publication Wall_ using the unit of _Asset_, referencing the transaction to comment and giving his comment.
 
+[**Go to Conclusion**](/conclusion.md)
+

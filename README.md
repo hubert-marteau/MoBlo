@@ -19,7 +19,7 @@ This document presents :
 * The [**Global Architecture**](/ga.md) Diagram;
 * The [**Unit Definition**](/ud.md) Diagram;
 * The [**Business Transactions**](/bt.md) Diagram;
-* The Conclusion.
+* The [**Conclusion**](/conclusion.md).
 
 
 
