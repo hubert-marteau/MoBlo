@@ -1,6 +1,6 @@
 _The licence used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-_MoBlo can be fully read at this url : _[_https://www.gitbook.com/book/simplyub/moblo/details_](https://www.gitbook.com/book/simplyub/moblo/details)
+_MoBlo can be fully read at this url :_ [_https://www.gitbook.com/book/simplyub/moblo/details_](https://www.gitbook.com/book/simplyub/moblo/details)
 
 # MoBlo, Modelization for BlockChain
 
