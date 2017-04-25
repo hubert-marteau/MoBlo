@@ -71,45 +71,45 @@ Let’s take again each actor with their rights:
 
   * They cannot connect!!! Then they cannot read information.
 
+
+
 But in this list, a few rights are redundant.
 
 If you are able to write in a BlockChain, then you inevitably have the right to connect. Similary, the creator of a BlockChain has Admin and Activation Rights.
 
 _Notice: it’s a good way to keep highlighted status rights, process right and business rights._
 
+
+
 Then the list can be reduced in:
 
-* The Central Library :
+* The _Central Library_:
+  * It is the BlockChain **Creator**
+  * It is a **Miner**
+  * It can **Send** transactions in the BlockChain
+  * It can **Receive** transactions in the BlockChain
+  * It can **Issue** in the BlockChain
 
-o    It is the BlockChain Creator
 
-o    It is a Miner
 
-o    It can Write transactions in the BlockChain
+* The others _Libraries_:
+  * They have **Activation** rights on the BlockChain
+  * They are a **Miner**
+  * They can **Send** transactions in the BlockChain
+  * They can **Receive** transactions in the BlockChain
 
-o    It can Receive transactions in the BlockChain
 
-o    It can Issue in the BlockChain
 
-* The others Libraries
+* The _Readers_:
+  * They can **Send** transactions in the BlockChain
+  * They can **Receive** transactions in the BlockChain
 
-o    They have Activation rights on the BlockChain
 
-o    They are a Miner
 
-o    They can Write transactions in the BlockChain
+* Other _Actors_ \(not linked to library system\):
+  * They cannot connect!!! Then they cannot read information.
 
-o    They can Receive transactions in the BlockChain
 
-* The Readers
-
-o    They can Write transactions in the BlockChain
-
-o    They can Receive transactions in the BlockChain
-
-* Other People \(not linked to library system\)
-
-o    They cannot connect!!! Then they cannot read information.
 
 Thus, the rights can be represented by a compact version of the figure:
 
