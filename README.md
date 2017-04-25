@@ -6,7 +6,7 @@ by Hubert MARTEAU
 
 _special thanks to Jessica De La Cruz and Leen Van Dalen_
 
-[![](/Img/WorldLine-Logo.jpeg.png)](http://worldline.com)
+[![](/Img/WorldLine-Logo-petit.jpg)](http://worldline.com)
 
 As a technology, BlockChain needs modelization tools to lead projects conception. BlockChain is a transactional technology shared or not, by users, and each part of the project needs to be modeled in a common way to be understood by anybody working around the project \(technical people, managers, customers …\).
 
