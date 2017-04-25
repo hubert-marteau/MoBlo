@@ -1,5 +1,7 @@
 _The licence used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+[**Return to Introduction**](/README.md)
+
 [**Return to Population MAP**](/context.md)
 
 # 3.    Global Architecture \(GA\)
@@ -17,8 +19,6 @@ See below the elements to define the global architecture.
 | ![](/Img/GA-Application.png) | **Application** : Application used by someone of the population. |
 | ![](/Img/GA-Link.png) | **Link** : Link between the nodes and the population. |
 
-
-
 ## 3.2.    Library use case GA
 
 In the Library use case, the libraries have an interest to be directly connected to the BlockChain.
@@ -26,8 +26,6 @@ In the Library use case, the libraries have an interest to be directly connected
 _Readers_ don’t have to install or configure anything to use the system. Then a Web Gate has to be implemented to let them use the service. Another reason of the gate is the lack of interest for _Readers_ to possess all the data. Regarding Population Map, _Others_ don’t have any right to connect to the BlockChain, and then the Web Gate needs to have a restricted access.
 
 In complement of the Population Map, batches are necessary to create and send delay-related mail to _Readers_ for example or manage the books to send from a library to another one.
-
-
 
 ![](/Img/GA-Library.png)
 
@@ -38,8 +36,6 @@ The figure represents the 3 nodes with rights inside the BlockChain. The interfa
 ## 3.3.    Forum use case GA
 
 The goal of the Forum is to discard all the web tools. Except to send and receive information in using transactions, there are no specific cases to identify. The goal of the forum which is a wall of publications is to maintain it completely open to everyone.
-
-
 
 ![](/Img/GA-Forum.png)
 

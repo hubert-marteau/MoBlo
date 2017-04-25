@@ -14,8 +14,9 @@ As a technology, BlockChain needs modelization tools to lead projects conception
 
 This document presents :
 
-* The [**Context**](/context.md) which will be used in presented use cases.
-* The [**Population Map**](/pm.md) Diagram.
+* The [**Context**](/context.md) which will be used in presented use cases;
+* The [**Population Map**](/pm.md) Diagram;
+* The [**Global Architecture**](/ga.md) Diagram;
 
 
 
