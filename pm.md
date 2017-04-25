@@ -140,15 +140,18 @@ _Notice: The forum has a wall, an editorial line. A specific address is created 
 _Notice: An address with only “receive” right can be considered like a publication wall \(a discussion later compare transactions and streams for this use case\)._
 
 * The _Editors_ \(having rights to create new topics\):
+
   * It can **Send** transactions in the BlockChain
   * It can **Receive** transactions in the BlockChain
   * It can **Issue** in the BlockChain
 
 * The _Subscribed Readers_:
+
   * They can **Send** transactions in the BlockChain
   * They can **Receive** transactions in the BlockChain
 
 * The \(Simple\) _Readers_:
+
   * They can **Connect** and then read \(and only read, the posts.
 
 ## 2.4.    Particular case: Multi-Signature
@@ -161,8 +164,6 @@ In Population Map, this is represented with a new box and the signature format.
 
 _**Figure 4- PM – MultiSign Addresses**_
 
-
-
 In this figure, there are two addresses shared by Alice and Bob:
 
 •    the first can send transactions only with one signature \(Alice’s signature or Bob’s signature\),
@@ -170,8 +171,6 @@ In this figure, there are two addresses shared by Alice and Bob:
 •    the second to send transactions need two signatures \(Alice’s signature and Bob’s signature\)
 
 _Notice that few screens have to be used when there are different crossed multisign addresses: when one address is 3 x 6 and, in the same use case, another is 4 x 5, and another is … The goal of the Population is to be clear, then different screens can be used to represent the population._
-
-
 
 ## 2.5.    Particular case: Import of Private Key
 
@@ -185,7 +184,5 @@ In this figure, Bob can create an Issue in the BlockChain and Alice cannot do it
 
 Technically, it means that Alice imported the private key of one of Bob’s addresses.
 
-# 
-
-
+Go to Global Architecture
 
