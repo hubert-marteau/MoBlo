@@ -36,9 +36,9 @@ In the Library use case, there are 4 kinds of actors:
 
 All the rights can be represented by the next figure:
 
-![](/Img/PM-Library-Ext.png)
+![](/Img/PM-Library-Ext.png)_**Figure 1 - Population Map - Library - extented**_
 
-_**Figure 1 - Population Map - Library - extented**_
+
 
 Let’s take again each actor with their rights:
 
@@ -80,6 +80,7 @@ _Notice: it’s a good way to keep highlighted status rights, process right and 
 Then the list can be reduced in:
 
 * The _Central Library_:
+
   * It is the BlockChain **Creator**
   * It is a **Miner**
   * It can **Send** transactions in the BlockChain
@@ -87,23 +88,26 @@ Then the list can be reduced in:
   * It can **Issue** in the BlockChain
 
 * The others _Libraries_:
+
   * They have **Activation** rights on the BlockChain
   * They are a **Miner**
   * They can **Send** transactions in the BlockChain
   * They can **Receive** transactions in the BlockChain
 
 * The _Readers_:
+
   * They can **Send** transactions in the BlockChain
   * They can **Receive** transactions in the BlockChain
 
 * Other _Actors_ \(not linked to library system\):
+
   * They cannot connect!!! Then they cannot read information.
 
 Thus, the rights can be represented by a compact version of the figure:
 
-![](/Img/PM-Library-Compact.png)
+![](/Img/PM-Library-Compact.png)_**Figure 2 - Population Map - Library - Compact**_
 
-_**Figure 2 - Population Map - Library - Compact**_
+
 
 ## 2.3.    Forum use case PM
 
@@ -117,13 +121,11 @@ In the Forum use case, there are 4 kinds of people:
 
 * The \(Simple\) _Readers_
 
-
-
 All the rights can be represented by the next figure:
 
-![](/Img/PM-Forum.png)
+![](/Img/PM-Forum.png)_**Figure 3 - PM - Forum**_
 
-_**Figure 3 - PM - Forum**_
+
 
 The figure represents the compact version of the Population Map \(PM\).
 
