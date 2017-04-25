@@ -53,6 +53,8 @@ Let’s take again each actor with their rights:
   * It can **Receive** transactions in the BlockChain
   * It can **Issue** in the BlockChain
 
+
+
 * The others _Libraries_:
 
   * They have **Activation** rights on the BlockChain
@@ -61,17 +63,19 @@ Let’s take again each actor with their rights:
   * They can **Send** transactions in the BlockChain
   * They can **Receive** transactions in the BlockChain
 
+
+
 * The _Readers_:
 
   * They can **Connect** to the BlockChain
   * They can **Send** transactions in the BlockChain
   * They can **Receive** transactions in the BlockChain
 
+
+
 * Other _Actors_ \(not linked to library system\):
 
   * They cannot connect!!! Then they cannot read information.
-
-
 
 But in this list, a few rights are redundant.
 
