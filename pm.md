@@ -22,25 +22,29 @@ Rights are defined here for the following nodes of the network.
 | ![](/Img/Receive.png) | **Receive **: Node able to receive transaction in the BC _\(Necessarily able to connect\)_ |
 | ![](/Img/Issue.png) | **Issue **: Node able to create new asset in the BC _\(Necessarily able to connect and receive\)_ |
 
-```
 
-```
 
 ## 2.2.    Library use case PM
 
 In the Library use case, there are 4 kinds of actors:
 
-* The Central Library
+* The _Central Library_
 
-* The others Libraries
+* The others _Libraries_
 
-* The Readers
+* The _Readers_
 
-* Other Actors \(not linked to library system\)
+* Other _Actors _\(not linked to library system\)
+
+
 
 All the rights can be represented by the next figure:
 
-Figure 1 - Population Map - Library - extented
+![](/Img/PM-Library-Ext.png)
+
+_**Figure 1 - Population Map - Library - extented**_
+
+
 
 Let’s take again each actor with their rights:
 
