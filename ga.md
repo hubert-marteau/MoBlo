@@ -71,7 +71,7 @@ Labels are added to the multiSig addresses to distinguish them later just in usi
 
 In the particular of multiSig addresses the Global Architecture allows to define explicitly the related pub keys.
 
-![](/Img/GA-MultiSig.png)
+
 
 _**Figure 3-3 - GA - MultiSig**_
 
