@@ -13,7 +13,7 @@ License: CC BY-NC-ND 4.0
 
 _The license used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[**Return to Introduction**](/00 - README.md)
+[**Return to Introduction**](/00-README.md)
 
 # 1.    Context
 
@@ -31,5 +31,5 @@ Readers must have an access right to borrow books. They can borrow books in any 
 
 Someone wants to create a restricted access forum without using the usual web tools. People are able to create new posts. People are only able to comment to either a post or to another comment. The post writer is the responsible for the communication around his post. He decides who is able to comment his post.
 
-[**Go to Population Map Diagram**](/02 - pm.md)
+[**Go to Population Map Diagram**](/02-pm.md)
 
