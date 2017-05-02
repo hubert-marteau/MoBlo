@@ -13,9 +13,9 @@ License: CC BY-NC-ND 4.0
 
 _The license used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[**Return to Introduction**](/README.md)
+[**Return to Introduction**](/00 - README.md)
 
-[**Return to Business Transactions**](/bt.md)
+[**Return to Business Transactions**](/05 - bt.md)
 
 # Conclusion
 
