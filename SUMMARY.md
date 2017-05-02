@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](/00-README.md)
+* [Introduction](/README.md)
 * [Context](/01-context.md)
 * [Population Map \(PM\)](/02-pm.md)
 * [Global Architecture \(GA\)](/03-ga.md)
