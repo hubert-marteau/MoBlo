@@ -15,6 +15,8 @@ _The license used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecom
 
 _MoBlo can be fully read at this url :_ [_https://simplyub.gitbooks.io/moblo/content/_](https://simplyub.gitbooks.io/moblo/content/)
 
+Version française : _La version complète de MoBlo peut être lue à cette url :_[ ](https://simplyub.gitbooks.io/moblo/content/)[_https://simplyub.gitbooks.io/moblo-fr/content/_](https://simplyub.gitbooks.io/moblo-fr/content/)
+
 # MoBlo, Modelization for BlockChain
 
 by [Hubert MARTEAU](https://github.com/SimplyUb)
