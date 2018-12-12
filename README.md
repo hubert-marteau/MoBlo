@@ -8,7 +8,7 @@ Keywords:
   - MoBlo
   - Introduction
 Contact Information: Hubert MARTEAU @ Worldline
-License: CC BY-NC-ND 4.0
+License: CC BY-ND 4.0
 ---
 
 _The license used for MoBlo articles is_ [_CC BY-ND 4.0_](https://creativecommons.org/licenses/by-nd/4.0)
