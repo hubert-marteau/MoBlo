@@ -25,9 +25,9 @@ This paper proposes here a modelization for the 4 important parts in BlockChain 
 
 ![](/Img/multichain-logo-248x48.png)
 
-[**MultiChain**](http://www.multichain.com/) is a tested BlockChain which integrates, for sure, all the features presented in this document.
+[**MultiChain**](http://www.multichain.com/) is a tested BlockChain which integrates, for sure, most of the features presented in this document.
 
 [![](/Img/WorldLine-Logo-petit.jpg)](https://worldline.com)
 
-This document is realized by R&D departement of [**Worldline**](https://worldline.com).
+This document is realized in [**Worldline**](https://worldline.com) R&D departement.
 
